@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoGeneratorSettingsState">
+    <option name="generateClassComment" value="false" />
+    <option name="generateFieldComment" value="false" />
+    <option name="generateMethodComment" value="false" />
+    <option name="generateRepository" value="false" />
+    <option name="ignoredFields">
+      <set>
+        <option value="" />
+      </set>
+    </option>
+    <option name="moduleName" value="demo2" />
+    <option name="moduleNameToSettings">
+      <map>
+        <entry key="demo2">
+          <value>
+            <ModuleSettings>
+              <option name="entityPackageName" value="com.example.entities" />
+              <option name="entityParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="repositoryParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="serializable" value="false" />
+    <option name="useLombok" value="false" />
+  </component>
+  <component name="DatabaseSettingsState">
+    <option name="database" value="coursM1" />
+    <option name="driverClass" value="com.mysql.jdbc.Driver" />
+    <option name="driverPath" value="$USER_HOME$/Downloads/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar" />
+    <option name="url" value="jdbc:mysql://localhost:3306/coursM1?zeroDateTimeBehavior=convertToNull" />
+  </component>
+</project>
